@@ -1,3 +1,4 @@
+//Kth factor program in JAVA
 class Solution {
     public int kthFactor(int n, int k) {
         int count = 0;
