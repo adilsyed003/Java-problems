@@ -1,3 +1,4 @@
+//also called Tortise hare problem
 class Solution {
         public int square(int a){
             int sum =0;
